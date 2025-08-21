@@ -1,6 +1,4 @@
-﻿# Assignment Project
-
- # React Assignment – Reusable Components (InputField & DataTable)
+# React Assignment – Reusable Components (InputField & DataTable)
 
 ## 📌 Overview
 This project demonstrates the creation of **reusable React components** using Vite + React , Javascript or Tailwind CSS For styling .  
@@ -13,7 +11,7 @@ The project also showcases basic CRUD functionality (Add, Edit, Delete records).
 ---
 
 ## 🚀 Live Demo
-🔗 [View on Vercel](https://your-vercel-link.vercel.app/)  
+🔗 [View on Vercel](https://assignement-zeta.vercel.app/)  
 
 ---
 
@@ -32,7 +30,7 @@ src/
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone  https://github.com/Gourav0404/Assignement
 cd your-repo
 npm install
 npm run dev
@@ -78,5 +76,3 @@ npm run dev
 This project demonstrates how **reusable components** can simplify UI development and ensure consistency across an application.  
 
 ---
-
-
